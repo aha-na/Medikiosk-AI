@@ -1,0 +1,6 @@
+{
+  "name": "MediKiosk - AI Patient Case-Taking Platform",
+  "description": "AI-powered clinical history software platform with multimodal voice/touch elicitation, AYUSH Dashavidha Pariksha, medical document digitization, and ABDM FHIR integration for Indian hospital OPDs.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
